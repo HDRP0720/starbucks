@@ -1,10 +1,10 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02e62c73-ec4d-41fe-84fb-aac789a0316a/deploy-status)](https://app.netlify.com/sites/hdrp0720-starbucks/deploys)
 
 # ☕️ Starbucks
 
 스타벅스 메인 페이지(홈페이지)를 따라 만든 예제입니다.
 
-[DEMO]()
+[DEMO](https://hdrp0720-starbucks.netlify.app/)
 
 ![Starbucks](./images/main-screenshot.jpg)
 
